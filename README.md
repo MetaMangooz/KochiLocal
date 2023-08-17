@@ -1,0 +1,2 @@
+# KochiLocal
+Blog Project
