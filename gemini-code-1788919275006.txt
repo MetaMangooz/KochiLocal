@@ -1,0 +1,4 @@
+kochi-local-web/
+├── index.html
+├── contact.html
+└── netlify.toml
